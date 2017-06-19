@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/ysf_dialog_enter_animation.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/anim/ysf_dialog_enter_animation.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/ysf_dialog_exit_animation.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/anim/ysf_dialog_exit_animation.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/ysf_dialog_exit_animation.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/anim/ysf_dialog_exit_animation.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/ysf_dialog_enter_animation.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/anim/ysf_dialog_enter_animation.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/anim/fade_out.xml"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_evaluation_dialog_select_text_selector.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_evaluation_dialog_select_text_selector.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_button_color_state_list.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_button_color_state_list.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_title_bar_text_color_dark_selector.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_title_bar_text_color_dark_selector.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_title_bar_text_color_dark_selector.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_title_bar_text_color_dark_selector.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_title_bar_text_color_light_selector.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_title_bar_text_color_light_selector.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_evaluation_dialog_select_text_selector.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_evaluation_dialog_select_text_selector.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_button_color_state_list.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_button_color_state_list.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/color/ysf_title_bar_text_color_light_selector.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/color/ysf_title_bar_text_color_light_selector.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_message_item_rich_text_default.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_message_item_rich_text_default.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_enabled_dark.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_enabled_dark.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_common.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_common.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_satisfaction.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_satisfaction.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_ic_failed.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_ic_failed.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_complete_light.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_complete_light.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_message_unread_news_icon_normal.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_message_unread_news_icon_normal.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_loading_small_white.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_loading_small_white.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_title_bar_back_icon.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_title_bar_back_icon.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_dissatisfied.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_dissatisfied.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_new_message_notify.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_new_message_notify.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_title_bar_back_icon_white.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_title_bar_back_icon_white.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_disabled_light.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_disabled_light.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_disabled_dark.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_disabled_dark.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_complete_dark.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_complete_dark.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_much_dissatisfied.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_much_dissatisfied.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_much_satisfaction.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_much_satisfaction.png"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ysf_evaluation_star_enabled_light.png",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.qiyukf.unicorn/unicorn/2.8.0/res/drawable-xhdpi-v4/ysf_evaluation_star_enabled_light.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/kangdaye/hipacWork/ytmallApp/ytmallApp/node_modules/react-native-qiyu/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/xml/preferences.xml"
+    }
+]
